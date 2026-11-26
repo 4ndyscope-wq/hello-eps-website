@@ -1,0 +1,14 @@
+'use strict';
+const fs = require('fs');
+const server = fs.readFileSync('server.js','utf8');
+const admin = fs.readFileSync('public/assets/js/exam-admin.js','utf8');
+const portal = fs.readFileSync('public/assets/js/exam-portal.js','utf8');
+const nav = fs.readFileSync('public/assets/js/auth-nav.js','utf8');
+if (!server.includes("['admin', 'teacher'].includes(req.user.role)")) throw new Error('Admin cannot access mock test APIs');
+if (!portal.includes('<h2>Admin Login</h2>')) throw new Error('Admin-only login heading missing');
+if (portal.includes('Teacher / Admin Login') || portal.includes('Only authorised teacher accounts')) throw new Error('Teacher login wording remains visible');
+if (admin.includes('createTeacher') || admin.includes('loadUsers') || admin.includes('Teacher accounts')) throw new Error('Teacher management UI remains');
+if (!nav.includes("if (role === 'admin')")) throw new Error('Admin navigation missing');
+if (!nav.includes('teacher and anonymous sessions stay hidden')) throw new Error('Teacher navigation is not restricted');
+if (!server.includes("if (user.role === 'student') return jsonError(res, 403")) throw new Error('Legacy student login is not blocked');
+console.log('PASS: admin-only login, admin exam access and teacher UI removal verified.');
