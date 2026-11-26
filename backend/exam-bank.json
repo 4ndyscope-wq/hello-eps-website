@@ -1,0 +1,1081 @@
+{
+  "loksewa": [
+    {
+      "q": "Which date is Constitution Day of Nepal observed?",
+      "o": [
+        "Baisakh 1",
+        "Jestha 15",
+        "Ashoj 3",
+        "Falgun 7"
+      ],
+      "a": 2,
+      "e": "Nepal’s Constitution was promulgated on 20 September 2015, which falls on Ashoj 3 in the Nepali calendar."
+    },
+    {
+      "q": "How many levels of government are provided by the Constitution of Nepal?",
+      "o": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "a": 1,
+      "e": "Nepal has federal, provincial and local levels of government."
+    },
+    {
+      "q": "What is 15% of 200?",
+      "o": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "a": 2,
+      "e": "15% × 200 = 0.15 × 200 = 30."
+    },
+    {
+      "q": "Which is the national flower of Nepal?",
+      "o": [
+        "Lotus",
+        "Lali Gurans (Rhododendron)",
+        "Sunflower",
+        "Marigold"
+      ],
+      "a": 1,
+      "e": "Lali Gurans (Rhododendron) is Nepal’s national flower."
+    },
+    {
+      "q": "Choose the closest meaning of “परिश्रम”.",
+      "o": [
+        "मेहनत",
+        "आराम",
+        "क्रोध",
+        "डर"
+      ],
+      "a": 0,
+      "e": "“परिश्रम” means hard work or मेहनत."
+    }
+  ],
+  "teacher-service": [
+    {
+      "q": "What is the main purpose of formative assessment?",
+      "o": [
+        "To rank schools only",
+        "To improve learning during instruction",
+        "To replace teaching",
+        "To award a final certificate"
+      ],
+      "a": 1,
+      "e": "Formative assessment provides feedback during learning so teaching and student progress can improve."
+    },
+    {
+      "q": "Which approach places learners actively at the centre of learning?",
+      "o": [
+        "Learner-centred approach",
+        "One-way lecture only",
+        "Rote copying only",
+        "Punishment-based approach"
+      ],
+      "a": 0,
+      "e": "Learner-centred teaching involves students actively in constructing knowledge and skills."
+    },
+    {
+      "q": "A good learning objective should be:",
+      "o": [
+        "Vague and broad",
+        "Observable and measurable",
+        "Unrelated to the lesson",
+        "The same for every topic"
+      ],
+      "a": 1,
+      "e": "A clear objective describes an outcome that can be observed or assessed."
+    },
+    {
+      "q": "Which is an example of positive reinforcement?",
+      "o": [
+        "Ignoring effort",
+        "Praising a learner for improvement",
+        "Giving unrelated punishment",
+        "Removing all feedback"
+      ],
+      "a": 1,
+      "e": "Positive reinforcement recognizes a desired behaviour and encourages it to continue."
+    },
+    {
+      "q": "Which tool is most suitable for recording progress over time against defined criteria?",
+      "o": [
+        "A portfolio",
+        "A random guess",
+        "A seating plan",
+        "A timetable only"
+      ],
+      "a": 0,
+      "e": "A portfolio collects a learner’s work over time and helps show growth."
+    }
+  ],
+  "banking": [
+    {
+      "q": "What is the central bank of Nepal?",
+      "o": [
+        "Nepal Bank Limited",
+        "Rastriya Banijya Bank",
+        "Nepal Rastra Bank",
+        "Agricultural Development Bank"
+      ],
+      "a": 2,
+      "e": "Nepal Rastra Bank is Nepal’s central bank."
+    },
+    {
+      "q": "Find the simple interest on Rs. 1,000 at 10% per year for 2 years.",
+      "o": [
+        "Rs. 100",
+        "Rs. 150",
+        "Rs. 200",
+        "Rs. 250"
+      ],
+      "a": 2,
+      "e": "Simple interest = (Principal × Rate × Time) / 100 = 1,000 × 10 × 2 / 100 = Rs. 200."
+    },
+    {
+      "q": "What does KYC stand for in banking?",
+      "o": [
+        "Keep Your Cash",
+        "Know Your Customer",
+        "Key Yearly Credit",
+        "Know Your Currency"
+      ],
+      "a": 1,
+      "e": "KYC means Know Your Customer, a process used to verify customer identity."
+    },
+    {
+      "q": "Which equation represents the basic accounting equation?",
+      "o": [
+        "Assets = Liabilities + Equity",
+        "Assets = Income − Expenses",
+        "Liabilities = Assets + Equity",
+        "Equity = Assets + Liabilities"
+      ],
+      "a": 0,
+      "e": "The basic accounting equation is Assets = Liabilities + Owner’s Equity."
+    },
+    {
+      "q": "When the general price level rises, the purchasing power of money usually:",
+      "o": [
+        "Rises",
+        "Falls",
+        "Stays exactly the same",
+        "Doubles automatically"
+      ],
+      "a": 1,
+      "e": "Inflation reduces the amount of goods and services a unit of money can buy."
+    }
+  ],
+  "health-institutional": [
+    {
+      "q": "What is the most effective routine measure for reducing the spread of many infections?",
+      "o": [
+        "Hand hygiene",
+        "Sharing personal towels",
+        "Skipping cleaning",
+        "Reusing disposable gloves"
+      ],
+      "a": 0,
+      "e": "Correct hand hygiene is a core infection-prevention practice."
+    },
+    {
+      "q": "Which group contains common vital signs?",
+      "o": [
+        "Height, shoe size, hair colour",
+        "Temperature, pulse, respiration and blood pressure",
+        "Eye colour, weight and age only",
+        "Diet, sleep and occupation"
+      ],
+      "a": 1,
+      "e": "Temperature, pulse, respiratory rate and blood pressure are commonly measured vital signs."
+    },
+    {
+      "q": "What is the main purpose of oral rehydration solution (ORS)?",
+      "o": [
+        "Treat fractures",
+        "Replace fluids and electrolytes",
+        "Reduce eyesight problems",
+        "Cure every infection"
+      ],
+      "a": 1,
+      "e": "ORS helps replace water and electrolytes lost through diarrhoea and dehydration."
+    },
+    {
+      "q": "Sterilization is a process intended to:",
+      "o": [
+        "Remove visible dust only",
+        "Destroy or eliminate all forms of microbial life",
+        "Add fragrance to equipment",
+        "Cool instruments"
+      ],
+      "a": 1,
+      "e": "Sterilization aims to eliminate all forms of microbial life, including bacterial spores."
+    },
+    {
+      "q": "What does PPE commonly stand for in healthcare?",
+      "o": [
+        "Patient Payment Entry",
+        "Personal Protective Equipment",
+        "Public Practice Exam",
+        "Primary Prevention Exercise"
+      ],
+      "a": 1,
+      "e": "PPE means Personal Protective Equipment, such as gloves, masks and protective gowns."
+    }
+  ],
+  "police-army": [
+    {
+      "q": "What is the supreme law of Nepal?",
+      "o": [
+        "A local notice",
+        "The Constitution of Nepal",
+        "A school rulebook",
+        "A municipal receipt"
+      ],
+      "a": 1,
+      "e": "The Constitution is the fundamental and supreme law of the country."
+    },
+    {
+      "q": "A person travels 60 km in 2 hours. What is the average speed?",
+      "o": [
+        "20 km/h",
+        "25 km/h",
+        "30 km/h",
+        "40 km/h"
+      ],
+      "a": 2,
+      "e": "Average speed = distance ÷ time = 60 ÷ 2 = 30 km/h."
+    },
+    {
+      "q": "What does UN stand for?",
+      "o": [
+        "United Nations",
+        "Universal Network",
+        "Union of Neighbours",
+        "United Navy"
+      ],
+      "a": 0,
+      "e": "UN stands for United Nations, an international organization."
+    },
+    {
+      "q": "Which quality is essential when working as part of a disciplined team?",
+      "o": [
+        "Ignoring instructions",
+        "Cooperation and responsibility",
+        "Hiding important information",
+        "Acting without communication"
+      ],
+      "a": 1,
+      "e": "Teamwork depends on cooperation, responsibility and clear communication."
+    },
+    {
+      "q": "On a standard map, which direction is usually at the top?",
+      "o": [
+        "South",
+        "East",
+        "North",
+        "West"
+      ],
+      "a": 2,
+      "e": "Most standard maps place north at the top unless a different orientation is marked."
+    }
+  ],
+  "technical-service": [
+    {
+      "q": "What is the SI unit of electric current?",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "a": 1,
+      "e": "The SI unit of electric current is the ampere (A)."
+    },
+    {
+      "q": "How many watts are in one kilowatt?",
+      "o": [
+        "10",
+        "100",
+        "1,000",
+        "10,000"
+      ],
+      "a": 2,
+      "e": "The prefix kilo means one thousand, so 1 kW = 1,000 W."
+    },
+    {
+      "q": "Which instrument is commonly used to measure voltage, current and resistance?",
+      "o": [
+        "Multimeter",
+        "Thermometer",
+        "Stopwatch",
+        "Barometer"
+      ],
+      "a": 0,
+      "e": "A suitable multimeter can measure electrical quantities such as voltage, current and resistance."
+    },
+    {
+      "q": "What is the SI unit of length?",
+      "o": [
+        "Litre",
+        "Kilogram",
+        "Metre",
+        "Second"
+      ],
+      "a": 2,
+      "e": "The metre (m) is the SI base unit of length."
+    },
+    {
+      "q": "Before servicing electrical equipment, the safest first step is generally to:",
+      "o": [
+        "Touch exposed wires",
+        "Isolate the power supply and follow safety procedure",
+        "Pour water on the equipment",
+        "Remove warning labels"
+      ],
+      "a": 1,
+      "e": "Power should be isolated and the relevant safety procedure followed before service work."
+    }
+  ],
+  "english": [
+    {
+      "q": "Choose the correct plural form of “child”.",
+      "o": [
+        "Childs",
+        "Childes",
+        "Children",
+        "Childrens"
+      ],
+      "a": 2,
+      "e": "The plural of child is children."
+    },
+    {
+      "q": "Choose the correct sentence.",
+      "o": [
+        "She go to school.",
+        "She goes to school.",
+        "She going school.",
+        "She gone to school."
+      ],
+      "a": 1,
+      "e": "In the present simple, “she” takes the third-person singular form “goes”."
+    },
+    {
+      "q": "I have lived here ___ 2020.",
+      "o": [
+        "for",
+        "since",
+        "at",
+        "by"
+      ],
+      "a": 1,
+      "e": "Use “since” with a starting point in time, such as 2020."
+    },
+    {
+      "q": "Change to active voice: “The letter was written by Maya.”",
+      "o": [
+        "Maya wrote the letter.",
+        "Maya writes by the letter.",
+        "The letter wrote Maya.",
+        "Maya was written the letter."
+      ],
+      "a": 0,
+      "e": "The active form makes Maya the subject: “Maya wrote the letter.”"
+    },
+    {
+      "q": "Choose the closest synonym of “abundant”.",
+      "o": [
+        "Rare",
+        "Plentiful",
+        "Empty",
+        "Tiny"
+      ],
+      "a": 1,
+      "e": "“Abundant” means existing in large quantities; “plentiful” is a close synonym."
+    }
+  ],
+  "japanese": [
+    {
+      "q": "What does “おはようございます (ohayou gozaimasu)” mean?",
+      "o": [
+        "Good morning",
+        "Good night",
+        "Goodbye",
+        "Thank you"
+      ],
+      "a": 0,
+      "e": "おはようございます is a polite way to say “Good morning”."
+    },
+    {
+      "q": "What does “ありがとう (arigatou)” mean?",
+      "o": [
+        "Sorry",
+        "Thank you",
+        "Welcome",
+        "Good evening"
+      ],
+      "a": 1,
+      "e": "ありがとう means “Thank you” (often used in a casual setting)."
+    },
+    {
+      "q": "What does “わたし (watashi)” mean?",
+      "o": [
+        "You",
+        "I / me",
+        "We",
+        "Teacher"
+      ],
+      "a": 1,
+      "e": "わたし is a common Japanese first-person pronoun meaning “I” or “me”."
+    },
+    {
+      "q": "Which sound is represented by the Hiragana character “あ”?",
+      "o": [
+        "i",
+        "u",
+        "a",
+        "e"
+      ],
+      "a": 2,
+      "e": "The Hiragana character あ represents the sound “a”."
+    },
+    {
+      "q": "What number is “さん (san)”?",
+      "o": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "a": 2,
+      "e": "さん is the Japanese reading for the number three (3)."
+    }
+  ],
+  "korean": [
+    {
+      "q": "What does “안녕하세요” mean?",
+      "o": [
+        "Hello",
+        "Good night",
+        "Goodbye forever",
+        "Excuse me"
+      ],
+      "a": 0,
+      "e": "안녕하세요 is a polite everyday greeting meaning “Hello”."
+    },
+    {
+      "q": "What does “감사합니다” mean?",
+      "o": [
+        "I am hungry",
+        "Thank you",
+        "I am a student",
+        "See you tomorrow"
+      ],
+      "a": 1,
+      "e": "감사합니다 is a polite way to say “Thank you”."
+    },
+    {
+      "q": "What does “물” mean in Korean?",
+      "o": [
+        "Book",
+        "Water",
+        "School",
+        "Food"
+      ],
+      "a": 1,
+      "e": "물 (mul) means “water”."
+    },
+    {
+      "q": "What is the Korean word “학교” (hakgyo)?",
+      "o": [
+        "Hospital",
+        "School",
+        "Market",
+        "Station"
+      ],
+      "a": 1,
+      "e": "학교 means “school”."
+    },
+    {
+      "q": "Which Hangul syllable is commonly romanized as “ga”?",
+      "o": [
+        "나",
+        "가",
+        "다",
+        "마"
+      ],
+      "a": 1,
+      "e": "가 is pronounced “ga” in standard Korean romanization."
+    }
+  ],
+  "computer": [
+    {
+      "q": "What does CPU stand for?",
+      "o": [
+        "Central Processing Unit",
+        "Computer Power Utility",
+        "Core Program User",
+        "Central Print Unit"
+      ],
+      "a": 0,
+      "e": "CPU stands for Central Processing Unit, which executes instructions in a computer."
+    },
+    {
+      "q": "Which type of memory is typically volatile?",
+      "o": [
+        "ROM",
+        "RAM",
+        "DVD",
+        "Hard disk"
+      ],
+      "a": 1,
+      "e": "RAM is volatile memory: its contents are generally lost when power is turned off."
+    },
+    {
+      "q": "What does URL stand for?",
+      "o": [
+        "Uniform Resource Locator",
+        "Universal Record Link",
+        "User Read Language",
+        "Unified Routing List"
+      ],
+      "a": 0,
+      "e": "URL stands for Uniform Resource Locator, the address of a resource on the web."
+    },
+    {
+      "q": "Which keyboard shortcut commonly copies selected text or files?",
+      "o": [
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + Z"
+      ],
+      "a": 2,
+      "e": "Ctrl + C is the common copy shortcut; Ctrl + V pastes and Ctrl + X cuts."
+    },
+    {
+      "q": "A fraudulent message designed to steal passwords is an example of:",
+      "o": [
+        "Formatting",
+        "Phishing",
+        "Defragmentation",
+        "Compression"
+      ],
+      "a": 1,
+      "e": "Phishing tries to trick people into revealing sensitive information."
+    }
+  ],
+  "tuition": [
+    {
+      "q": "Solve: 2x + 3 = 11.",
+      "o": [
+        "x = 3",
+        "x = 4",
+        "x = 5",
+        "x = 7"
+      ],
+      "a": 1,
+      "e": "Subtract 3 from both sides: 2x = 8. Divide by 2: x = 4."
+    },
+    {
+      "q": "What is the chemical formula of water?",
+      "o": [
+        "CO₂",
+        "O₂",
+        "H₂O",
+        "NaCl"
+      ],
+      "a": 2,
+      "e": "A water molecule contains two hydrogen atoms and one oxygen atom: H₂O."
+    },
+    {
+      "q": "What is the perimeter of a square with side length 5 cm?",
+      "o": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "a": 2,
+      "e": "Perimeter of a square = 4 × side = 4 × 5 = 20 cm."
+    },
+    {
+      "q": "Which part of speech names a person, place, thing or idea?",
+      "o": [
+        "Verb",
+        "Noun",
+        "Adverb",
+        "Preposition"
+      ],
+      "a": 1,
+      "e": "A noun names a person, place, thing or idea."
+    },
+    {
+      "q": "Which celestial body does Earth orbit?",
+      "o": [
+        "The Moon",
+        "Mars",
+        "The Sun",
+        "Jupiter"
+      ],
+      "a": 2,
+      "e": "Earth travels around the Sun once approximately every year."
+    }
+  ],
+  "ielts-pte": [
+    {
+      "q": "In a reading passage, what does “main idea” refer to?",
+      "o": [
+        "The central point of the text",
+        "The longest word",
+        "The final punctuation mark",
+        "A minor example only"
+      ],
+      "a": 0,
+      "e": "The main idea is the central message or point the writer communicates."
+    },
+    {
+      "q": "When listening for gist, a test taker should focus mainly on:",
+      "o": [
+        "Every individual sound",
+        "The overall meaning",
+        "Only the speaker’s accent",
+        "The number of pauses"
+      ],
+      "a": 1,
+      "e": "Listening for gist means understanding the overall message rather than every detail."
+    },
+    {
+      "q": "Choose the best connector: “___ it was raining, we continued the match.”",
+      "o": [
+        "Because",
+        "Although",
+        "Unless",
+        "Therefore"
+      ],
+      "a": 1,
+      "e": "“Although” introduces a contrast between the rain and continuing the match."
+    },
+    {
+      "q": "A strong essay introduction should normally:",
+      "o": [
+        "Introduce the topic and make the writer’s direction clear",
+        "Repeat the question without adding meaning",
+        "Include unrelated examples",
+        "Give only a list of keywords"
+      ],
+      "a": 0,
+      "e": "An effective introduction frames the topic and presents a clear direction or position."
+    },
+    {
+      "q": "For a chart-description task, which is most important?",
+      "o": [
+        "Inventing missing figures",
+        "Selecting and accurately comparing key trends",
+        "Describing every colour only",
+        "Giving a personal story"
+      ],
+      "a": 1,
+      "e": "A good chart response selects key information and describes comparisons accurately without inventing data."
+    }
+  ],
+  "gr-indian-army": [
+    {
+      "q": "How many metres are there in one kilometre?",
+      "o": [
+        "100",
+        "500",
+        "1,000",
+        "10,000"
+      ],
+      "a": 2,
+      "e": "One kilometre is equal to 1,000 metres."
+    },
+    {
+      "q": "Which direction is opposite to east?",
+      "o": [
+        "North",
+        "South",
+        "West",
+        "North-east"
+      ],
+      "a": 2,
+      "e": "West is the opposite direction to east."
+    },
+    {
+      "q": "A candidate runs 2 km in 10 minutes. What is the average speed in km/h?",
+      "o": [
+        "6",
+        "10",
+        "12",
+        "20"
+      ],
+      "a": 2,
+      "e": "10 minutes is 1/6 hour. Speed = 2 ÷ (1/6) = 12 km/h."
+    },
+    {
+      "q": "Which habit best supports safe and effective physical training?",
+      "o": [
+        "Skipping warm-up every time",
+        "Progressive training with recovery",
+        "Ignoring pain and injury",
+        "Avoiding water"
+      ],
+      "a": 1,
+      "e": "Gradual progression and recovery help build fitness while reducing avoidable injury risk."
+    },
+    {
+      "q": "What is the capital of India?",
+      "o": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "a": 2,
+      "e": "New Delhi is the capital of India."
+    }
+  ],
+  "british-army": [
+    {
+      "q": "What is the capital city of the United Kingdom?",
+      "o": [
+        "Manchester",
+        "London",
+        "Edinburgh",
+        "Cardiff"
+      ],
+      "a": 1,
+      "e": "London is the capital of the United Kingdom."
+    },
+    {
+      "q": "What is the next number in the sequence 2, 4, 8, 16, ...?",
+      "o": [
+        "18",
+        "24",
+        "30",
+        "32"
+      ],
+      "a": 3,
+      "e": "Each number is multiplied by 2, so the next number is 32."
+    },
+    {
+      "q": "Approximately how many kilometres are in one mile?",
+      "o": [
+        "0.6 km",
+        "1.0 km",
+        "1.6 km",
+        "2.5 km"
+      ],
+      "a": 2,
+      "e": "One statute mile is approximately 1.609 kilometres."
+    },
+    {
+      "q": "Which behaviour best demonstrates teamwork?",
+      "o": [
+        "Sharing information and supporting colleagues",
+        "Taking credit for all work",
+        "Withholding relevant information",
+        "Ignoring agreed tasks"
+      ],
+      "a": 0,
+      "e": "Teamwork requires communication, shared responsibility and support."
+    },
+    {
+      "q": "If you face an unfamiliar task, the most appropriate first response is to:",
+      "o": [
+        "Guess and proceed unsafely",
+        "Clarify the instructions and follow the proper procedure",
+        "Ignore the task",
+        "Ask an unqualified person to decide"
+      ],
+      "a": 1,
+      "e": "Clarifying instructions and following safe, authorized procedures reduces risk."
+    }
+  ],
+  "singapore-police": [
+    {
+      "q": "Singapore is best described as a:",
+      "o": [
+        "Landlocked country",
+        "City-state",
+        "Mountain range",
+        "Continent"
+      ],
+      "a": 1,
+      "e": "Singapore is a sovereign city-state in Southeast Asia."
+    },
+    {
+      "q": "At a standard red traffic light, a driver should:",
+      "o": [
+        "Speed up",
+        "Stop",
+        "Sound the horn and continue",
+        "Drive onto the footpath"
+      ],
+      "a": 1,
+      "e": "A red traffic signal means stop, subject to the applicable traffic rules."
+    },
+    {
+      "q": "A vehicle travels 4 km at 8 km/h. How long does the journey take?",
+      "o": [
+        "15 minutes",
+        "30 minutes",
+        "45 minutes",
+        "1 hour"
+      ],
+      "a": 1,
+      "e": "Time = distance ÷ speed = 4 ÷ 8 hour = 0.5 hour, or 30 minutes."
+    },
+    {
+      "q": "Which action best reflects professional integrity?",
+      "o": [
+        "Falsifying a report",
+        "Treating people fairly and reporting facts accurately",
+        "Accepting an improper favour",
+        "Sharing confidential data casually"
+      ],
+      "a": 1,
+      "e": "Integrity includes honesty, fairness and responsible handling of information."
+    },
+    {
+      "q": "During an emergency, effective communication should be:",
+      "o": [
+        "Clear, calm and factual",
+        "Unclear and rushed",
+        "Based on rumours",
+        "Delayed without reason"
+      ],
+      "a": 0,
+      "e": "Clear, calm and accurate communication supports coordinated action."
+    }
+  ],
+  "korean-basic": [
+    {
+      "q": "안녕하세요의 뜻은 무엇입니까?",
+      "o": [
+        "안녕히 가세요",
+        "Hello",
+        "Thank you",
+        "Sorry"
+      ],
+      "a": 1,
+      "e": "안녕하세요 means hello."
+    },
+    {
+      "q": "“학교”의 뜻은?",
+      "o": [
+        "Hospital",
+        "School",
+        "Market",
+        "Station"
+      ],
+      "a": 1,
+      "e": "학교 means school."
+    },
+    {
+      "q": "저는 학생___ .",
+      "o": [
+        "입니다",
+        "합니다",
+        "있습니다",
+        "갑니다"
+      ],
+      "a": 0,
+      "e": "저는 학생입니다 means I am a student."
+    },
+    {
+      "q": "“물”은 무엇입니까?",
+      "o": [
+        "Water",
+        "Rice",
+        "Bread",
+        "Milk"
+      ],
+      "a": 0,
+      "e": "물 means water."
+    },
+    {
+      "q": "오늘은 월요일입니다. “오늘”은?",
+      "o": [
+        "Yesterday",
+        "Tomorrow",
+        "Today",
+        "Week"
+      ],
+      "a": 2,
+      "e": "오늘 means today."
+    },
+    {
+      "q": "빈칸에 알맞은 것을 고르십시오: 저는 밥을 ___.",
+      "o": [
+        "먹어요",
+        "마셔요",
+        "가요",
+        "자요"
+      ],
+      "a": 0,
+      "e": "먹어요 means eat."
+    },
+    {
+      "q": "“감사합니다”의 의미는?",
+      "o": [
+        "Goodbye",
+        "Thank you",
+        "Welcome",
+        "Excuse me"
+      ],
+      "a": 1,
+      "e": "감사합니다 is a polite thank-you."
+    },
+    {
+      "q": "어디에 갑니까? “회사에 ___.”",
+      "o": [
+        "갑니다",
+        "먹습니다",
+        "마십니다",
+        "읽습니다"
+      ],
+      "a": 0,
+      "e": "갑니다 means go."
+    },
+    {
+      "q": "“크다”의 반대말은?",
+      "o": [
+        "작다",
+        "많다",
+        "빠르다",
+        "높다"
+      ],
+      "a": 0,
+      "e": "작다 means small, opposite of 크다."
+    },
+    {
+      "q": "식당에서 음식을 주문할 때 알맞은 표현은?",
+      "o": [
+        "이것 주세요",
+        "안녕히 주무세요",
+        "잘 다녀오세요",
+        "축하합니다"
+      ],
+      "a": 0,
+      "e": "이것 주세요 means please give me this."
+    }
+  ],
+  "korean-advanced": [
+    {
+      "q": "빈칸에 알맞은 것을 고르십시오: 시간이 없___ 택시를 탔어요.",
+      "o": [
+        "어서",
+        "지만",
+        "으면",
+        "다가"
+      ],
+      "a": 0,
+      "e": "없어서 expresses the reason: because there was no time."
+    },
+    {
+      "q": "“신청서를 작성하다”와 가장 가까운 뜻은?",
+      "o": [
+        "Fill out an application",
+        "Cancel a meeting",
+        "Pay a bill",
+        "Change a password"
+      ],
+      "a": 0,
+      "e": "작성하다 means to write or fill out."
+    },
+    {
+      "q": "기계를 사용하기 전에 반드시 설명서를 읽___ 합니다.",
+      "o": [
+        "어야",
+        "으면",
+        "다가",
+        "지만"
+      ],
+      "a": 0,
+      "e": "〜어야 합니다 expresses obligation."
+    },
+    {
+      "q": "작업 중 문제가 생기면 누구에게 먼저 보고해야 합니까?",
+      "o": [
+        "담당자",
+        "손님",
+        "관광객",
+        "친구"
+      ],
+      "a": 0,
+      "e": "A work-related issue should be reported to the person in charge."
+    },
+    {
+      "q": "“출입 금지” 표지판의 의미는?",
+      "o": [
+        "No entry",
+        "Emergency exit",
+        "Parking available",
+        "Staff cafeteria"
+      ],
+      "a": 0,
+      "e": "출입 금지 means entry is prohibited."
+    },
+    {
+      "q": "비가 많이 오___ 경기가 취소되었습니다.",
+      "o": [
+        "는 바람에",
+        "는 동안",
+        "을 뿐",
+        "는 대신"
+      ],
+      "a": 0,
+      "e": "〜는 바람에 indicates an often-unwanted cause."
+    },
+    {
+      "q": "물건을 옮기기 전에 안전 장비를 확인하는 이유는?",
+      "o": [
+        "사고 예방",
+        "시간 낭비",
+        "소음 증가",
+        "비용 계산"
+      ],
+      "a": 0,
+      "e": "Checking safety equipment helps prevent accidents."
+    },
+    {
+      "q": "“기한 내에 제출해 주십시오”의 의미는?",
+      "o": [
+        "Submit by the deadline",
+        "Submit whenever you want",
+        "Do not submit",
+        "Submit a different form"
+      ],
+      "a": 0,
+      "e": "기한 내에 means within the deadline."
+    },
+    {
+      "q": "동료가 도와주었습니다. 가장 자연스러운 대답은?",
+      "o": [
+        "도와주셔서 감사합니다",
+        "잘 먹겠습니다",
+        "안녕히 주무세요",
+        "어서 오세요"
+      ],
+      "a": 0,
+      "e": "도와주셔서 감사합니다 politely thanks a colleague for helping."
+    },
+    {
+      "q": "작업이 끝난 후 정리 정돈을 하는 가장 중요한 목적은?",
+      "o": [
+        "안전하고 효율적인 작업 환경 유지",
+        "작업량 늘리기",
+        "휴식 시간 줄이기",
+        "도구 숨기기"
+      ],
+      "a": 0,
+      "e": "Keeping the workplace organized supports safety and efficiency."
+    }
+  ]
+}

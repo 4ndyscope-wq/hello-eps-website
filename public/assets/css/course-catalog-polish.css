@@ -1,0 +1,16 @@
+/* Course catalog polish: pill navigation and functional category tabs. */
+.site-header .links a{min-height:42px;padding:10px 16px!important;border-radius:12px;transition:background .2s ease,color .2s ease,box-shadow .2s ease}
+.site-header .links a::after{display:none!important}
+.site-header .links a:hover{background:linear-gradient(135deg,#f1edff,#e8f4ff);color:#5426db!important}
+.site-header .links a.active{color:#fff!important;background:linear-gradient(115deg,#6428ed 0%,#4930e8 55%,#087de0 100%);box-shadow:0 8px 20px rgba(82,43,222,.24),inset 0 1px 0 rgba(255,255,255,.3)}
+.course-filter-tabs{width:min(1180px,92%);margin:0 auto 26px;display:flex;justify-content:center;align-items:center;gap:11px;flex-wrap:wrap}
+.course-filter{appearance:none;border:1px solid #cbd8ee;background:linear-gradient(145deg,#fff,#f1f5ff);color:#21385f;border-radius:999px;min-height:46px;padding:10px 19px;display:inline-flex;align-items:center;justify-content:center;gap:9px;font-family:inherit;font-size:.92rem;font-weight:750;line-height:1.2;cursor:pointer;box-shadow:0 5px 14px rgba(8,25,61,.07);transition:transform .2s ease,box-shadow .2s ease,background .2s ease,color .2s ease,border-color .2s ease}
+.course-filter span{font-size:1.08rem;color:#5d35e9}
+.course-filter:hover{transform:translateY(-2px);border-color:#9b8bf1;box-shadow:0 10px 22px rgba(82,43,222,.14)}
+.course-filter.active{color:#fff;border-color:transparent;background:linear-gradient(115deg,#6b2cf5,#4c31e8 55%,#087de0);box-shadow:0 10px 24px rgba(82,43,222,.28),inset 0 1px 0 rgba(255,255,255,.28)}
+.course-filter.active span{color:#fff}
+.course-card-art{aspect-ratio:16/7.4!important;background:#0b1e43!important;border:1px solid rgba(255,255,255,.22)}
+.course-card-art img{object-position:center 45%;}
+.course[hidden]{display:none!important}
+@media(max-width:800px){.site-header .links a{width:100%;border-radius:10px}.course-filter-tabs{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;padding:2px 4% 10px;scrollbar-width:thin}.course-filter{flex:0 0 auto}}
+@media(max-width:520px){.course-filter{min-height:42px;padding:9px 15px;font-size:.84rem}.course-card-art{aspect-ratio:16/8!important}}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+Disallow: /mock-test.html
+Disallow: /exam-admin.html
+Disallow: /api/
